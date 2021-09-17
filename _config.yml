@@ -1,12 +1,6 @@
-title: Blog Bibliotheks- und Archivinformatik
-author: Felix
-email: felix.lohmeier@fhgr.ch
+title: Blog Bibliotheks- und Archivinformatik Sloth-O-Nator
+author: Joëlle M.
 description: > # this means to ignore newlines
-  Vorlage für ein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
-
-# social links
-twitter_username: felixlohmeier # DO NOT include the @ character, or else the build will fail!
-github_username:  felixlohmeier # DO NOT include the @ character, or else the build will fail!
-
+  Lerntagebuch im Kurs Bibliotheks- und Archivinformatik HS21 an der FHGR unter dem Pseudonym Sloth-O-Nator
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
