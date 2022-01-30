@@ -1,5 +1,5 @@
 ---
-title: "Abschlussartikel"
+title: "Abschluss"
 date: 20222-01-30
 ---
 
