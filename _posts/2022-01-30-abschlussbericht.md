@@ -11,7 +11,7 @@ Lange Zeit hat mir jedoch ehrlichgesagt der Überblick über das Modul etwas gef
 
 Viele Themen wie MARC oder SPARQL waren mir schon von vorherigen Modulen bekannt und es war eine gute Auffrischung sich wieder damit auseinanderzusetzen.
 
-Was mir jedoch im Modul gefehlt hat war die eher technische Seite der Systeme. Statt nur aufzuzeigen was die Systeme für einen Leistungsumfang haben, hätten mich auch technische Details interessiert oder was zum Beispiel bei einer Format-Konvertierung technisch im Hintergrund für Prozesse ablaufen. Das hätte mir für das Gesamtverständnis sicherlich noch weitergeholfen. 
+Was mir jedoch im Modul gefehlt hat war die eher technische Seite der Systeme. Statt nur aufzuzeigen was die Systeme für einen Leistungsumfang haben, hätten mich auch technische Details interessiert oder was zum Beispiel bei einer Format-Konvertierung technisch im Hintergrund für Prozesse ablaufen. Das hätte mir für das Gesamtverständnis sicherlich noch weitergeholfen. Auch wie man evaluieren kann welche Software für einen geeignet ist hat mir gefehlt.
 
 Zudem denke ich, dass in der Klasse sehr verschiedene Interessen herrschen, die Personen mit Major Bibliotheken vor allem für Bibliothekssysteme, die mit dem Major Archiv vor allem für Archivsysteme und jene mit dem Major Web und Usability Engineering wahrscheinlich eher für die UX-Eigenschaften der Systeme und dem technischen Background. Das macht es verständlicherweise schwierig für alle immer etwas spannendes bereit zu halten und erklärt wahrscheinlich auch die Breite des Moduls. Ich persönlich hätte es dadurch interessanter gefunden, sich nur auf Archivsysteme zu konzentrieren und dafür viel tiefer in die Thematik und die jeweiligen Systeme einzutauchen.
 
